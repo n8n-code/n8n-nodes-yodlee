@@ -1,0 +1,15 @@
+export { accountsDescription } from './accounts';
+export { authDescription } from './auth';
+export { cobrandDescription } from './cobrand';
+export { configsDescription } from './configs';
+export { dataExtractsDescription } from './data-extracts';
+export { derivedDescription } from './derived';
+export { documentsDescription } from './documents';
+export { holdingsDescription } from './holdings';
+export { providerAccountsDescription } from './provider-accounts';
+export { providersDescription } from './providers';
+export { statementsDescription } from './statements';
+export { transactionsDescription } from './transactions';
+export { userDescription } from './user';
+export { verificationDescription } from './verification';
+export { verifyAccountDescription } from './verify-account';
