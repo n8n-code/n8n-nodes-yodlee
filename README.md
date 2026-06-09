@@ -55,21 +55,21 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Accounts | GET Get Accounts, POST Add Manual Account, POST Evaluate Address, GET Get Historical Balances, DELETE Delete Account, GET Get Account Details, PUT Update Account |
-| Auth | GET Get API Keys, POST Generate API Key, DELETE Delete API Key, DELETE Delete Token, POST Generate Access Token |
-| Cobrand | POST Cobrand Login, POST Cobrand Logout |
-| Configs | GET Get Subscribed Notification Events, DELETE Delete Notification Subscription, POST Subscribe For Notification Event, PUT Update Notification Subscription, GET Get Public Key |
-| Data Extracts | GET Get Events, GET Get userData |
-| Derived | GET Get Holding Summary, GET Get Networth Summary, GET Get Transaction Summary |
-| Documents | GET Get Documents, DELETE Delete Document, GET Download a Document |
-| Holdings | GET Get Holdings, GET Get Asset Classification List, GET Get Holding Type List, GET Get Security Details |
-| Provider Accounts | GET Get Provider Accounts, PUT Update Account, GET Get User Profile Details, DELETE Delete Provider Account, GET Get Provider Account Details, PUT Update Preferences |
-| Providers | GET Get Providers, GET Get Providers Count, GET Get Provider Details |
-| Statements | GET Get Statements |
-| Transactions | GET Get Transactions, GET Get Transaction Category List, POST Create Category, PUT Update Category, POST Create or Run Transaction Categorization Rule, DELETE Delete Transaction Categorization Rule, POST Run Transaction Categorization Rule, PUT Update Transaction Categorization Rule, GET Get Transaction Categorization Rules, DELETE Delete Category, GET Get Transactions Count, PUT Update Transaction |
-| User | GET Get User Details, PUT Update User Details, GET Get Access Tokens, POST User Logout, POST Register User, POST Saml Login, DELETE Delete User |
-| Verification | GET Get Verification Status, POST Initiaite Matching Service and Challenge Deposit, PUT Verify Challenge Deposit |
-| Verify Account | POST Verify Accounts Using Transactions |
+| Accounts | Get accounts, Post add manual account, Post evaluate address, Get historical balances, Delete account, Get account details, Put update account |
+| Auth | Get api keys, Post generate api key, Delete api key, Delete token, Post generate access token |
+| Cobrand | Post cobrand login, Post cobrand logout |
+| Configs | Get subscribed notification events, Delete notification subscription, Post subscribe for notification event, Put update notification subscription, Get public key |
+| Data Extracts | Get events, Get userdata |
+| Derived | Get holding summary, Get networth summary, Get transaction summary |
+| Documents | Get documents, Delete document, Get download a document |
+| Holdings | Get holdings, Get asset classification list, Get holding type list, Get security details |
+| Provider Accounts | Get provider accounts, Put update account, Get user profile details, Delete provider account, Get provider account details, Put update preferences |
+| Providers | Get providers, Get providers count, Get provider details |
+| Statements | Get statements |
+| Transactions | Get transactions, Get transaction category list, Post create category, Put update category, Post create or run transaction categorization rule, Delete transaction categorization rule, Post run transaction categorization rule, Put update transaction categorization rule, Get transaction categorization rules, Delete category, Get transactions count, Put update transaction |
+| User | Get user details, Put update user details, Get access tokens, Post user logout, Post register user, Post saml login, Delete user |
+| Verification | Get verification status, Post initiaite matching service and challenge deposit, Put verify challenge deposit |
+| Verify Account | Post verify accounts using transactions |
 
 ---
 
